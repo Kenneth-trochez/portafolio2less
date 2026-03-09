@@ -36,7 +36,9 @@ Expecting `+P.join(", ")+", got '"+(this.terminals_[b]||b)+"'":w="Parse error on
       <p>Soy un desarrollador web apasionado por crear experiencias modernas y funcionales. Me gusta trabajar con Vite, LESS y Handlebars.</p>\r
     </div>\r
   </div>\r
-</section>`,ir=`<section class="proyectos">\r
+</section>\r
+\r
+// holaaaaaaaaaaa soyktp`,ir=`<section class="proyectos">\r
   <h2>Proyectos</h2>\r
   <div class="cards">\r
     <div class="card">\r
