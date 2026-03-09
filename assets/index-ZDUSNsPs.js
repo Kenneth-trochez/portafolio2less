@@ -30,15 +30,13 @@ Expecting `+P.join(", ")+", got '"+(this.terminals_[b]||b)+"'":w="Parse error on
   <a href="#sobre-mi" class="btn">Conóceme</a>\r
 </section>`,nr=`<section class="sobre-mi">\r
   <div class="perfil-container">\r
-    <img src="/src/assets/image/folder.jpeg" alt="Perfil Kenneth" class="perfil-img"/>\r
+    <img src="/image/folder.jpeg" alt="Perfil Kenneth" class="perfil-img"/>\r
     <div class="sobre-texto">\r
       <h2>Sobre Mí</h2>\r
       <p>Soy un desarrollador web apasionado por crear experiencias modernas y funcionales. Me gusta trabajar con Vite, LESS y Handlebars.</p>\r
     </div>\r
   </div>\r
-</section>\r
-\r
-// holaaaaaaaaaaa soyktp`,ir=`<section class="proyectos">\r
+</section>`,ir=`<section class="proyectos">\r
   <h2>Proyectos</h2>\r
   <div class="cards">\r
     <div class="card">\r
